@@ -1,7 +1,3 @@
-### comandos terminal
-* criando pastas: mkdir nomePasta
-* criando arquivos dentro das pastas: touch nomePasta/nomeArquivo.ext
-
 # requisição:
 ### areas base de ua requisição http:
  - obs.: é possível ver o status da requisição pelo dev tools na aba network
@@ -42,8 +38,8 @@
  Body{
     "name":"Novo"
  }
-
-     
+ 
+    
 # resposta da requisição:
 ### STATUS CODE
  - se a requisição foi processada  e o que aconteceu com ela.
@@ -53,3 +49,7 @@
 
  #debugar
  adicionar a palavara **debugger** dentro de um trecho de código ele adicionara o breakpoint visivel no console dobrwoser
+ 
+  - obs: comandos terminal
+* criando pastas: mkdir nomePasta
+* criando arquivos dentro das pastas: touch nomePasta/nomeArquivo.ext
